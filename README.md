@@ -1,5 +1,5 @@
 <h2>Nice to meet you!</h2>
-<p>I'm Sami, 26, nonbinary, and I have aspirations of becoming a game dev.  I enjoy RPGs and visual novels, and want to share the ideas in my head to the world.</p>
+<p>I'm Sami, 28, nonbinary, and I have aspirations of becoming a game dev.  I enjoy RPGs and visual novels, and want to share the ideas in my head to the world.</p>
 
 <h2>Projects In Progress</h2>
 <ul>
@@ -12,6 +12,5 @@
 <ul>
 <li><a href="https://twitter.com/Pandappuccino">Twitter</a></li>
 <li><a href="https://pandappuccino.tumblr.com">Tumblr</a></li>
-<li><a href="https://deviantart.com/pandappuccino">DeviantArt</a></li>
 <li><a href="https://pandappuccino.itch.io">itch</li>
 </ul>
